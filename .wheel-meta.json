@@ -1,0 +1,22 @@
+{
+  "wheel_id": 715,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-150",
+  "project": "retaining-walls-toowoomba-a0421a6417397a954c973f1badab5cc6ff9b7",
+  "parent_t1_ref": "retainingwallstoowoomba-001",
+  "node_role": "buffer",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining walls toowoomba",
+  "intended_url": "http://retaining-walls-toowoomba-a0421a6417397a954c973f1badab5cc6ff9b7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4038b248ea29ffbd",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-toowoomba/",
+      "anchor": "Retaining Walls Toowoomba: Before You Compare Quotes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
